@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Proxima Nova Black';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src:
+        local('Proxima Nova Black'),
+        url(./fonts/ProximaNova-Black.woff) format('woff');
+}
+@font-face {
+    font-family: 'Proxima Nova Bold';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src:
+        local('Proxima Nova Bold'),
+        url(./fonts/ProximaNova-Bold.woff) format('woff');
+}
+@font-face {
+    font-family: 'Proxima Nova Bold Italic';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src:
+        local('Proxima Nova Bold Italic'),
+        url(./fonts/ProximaNova-BoldIt.woff) format('woff');
+}
+@font-face {
+    font-family: 'Proxima Nova Extrabold';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src:
+        local('Proxima Nova Extrabold'),
+        url(./fonts/ProximaNova-Extrabold.woff) format('woff');
+}
+@font-face {
+    font-family: 'Proxima Nova Light';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src:
+        local('Proxima Nova Light'),
+        url(./fonts/ProximaNova-Light.woff) format('woff');
+}
+@font-face {
+    font-family: 'Proxima Nova Light Italic';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src:
+        local('Proxima Nova Light Italc'),
+        url(./fonts/ProximaNova-LightItalic.woff) format('woff');
+}
+@font-face {
+    font-family: 'Proxima Nova Regular';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src:
+        local('Proxima Nova Regular'),
+        url(./fonts/ProximaNova-Regular.woff) format('woff');
+}
+@font-face {
+    font-family: 'Proxima Nova Regular Italic';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src:
+        local('Proxima Nova Regular Italic'),
+        url(./fonts/ProximaNova-RegularItalic.woff) format('woff');
+}
+@font-face {
+    font-family: 'Proxima Nova Semibold';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src:
+        local('Proxima Nova Semibold'),
+        url(./fonts/ProximaNova-Semibold.woff) format('woff');
+}
+@font-face {
+    font-family: 'Proxima Nova Semibold Italic';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src:
+        local('Proxima Nova Semibold Italic'),
+        url(./fonts/ProximaNova-SemiboldItalic.woff) format('woff');
+}

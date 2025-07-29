@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Electrolux Sans Thin';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src:
+        local('Electrolux Thin'),
+        url(./fonts/ElectroluxSans-Thin.woff) format('woff');
+}
+@font-face {
+    font-family: 'Electrolux Sans Thin Oblique';
+    font-style: oblique;
+    font-weight: 100;
+    font-display: swap;
+    src:
+        local('Electrolux Thin Oblique'),
+        url(./fonts/ElectroluxSans-ThinObl.woff) format('woff');
+}
+@font-face {
+    font-family: 'Electrolux Sans Light';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src:
+        local('Electrolux Light'),
+        url(./fonts/ElectroluxSans-Light.woff) format('woff');
+}
+@font-face {
+    font-family: 'Electrolux Sans Light Oblique';
+    font-style: oblique;
+    font-weight: 200;
+    font-display: swap;
+    src:
+        local('Electrolux Light Oblique'),
+        url(./fonts/ElectroluxSans-LightObl.woff) format('woff');
+}
+@font-face {
+    font-family: 'Electrolux Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src:
+        local('Electrolux Regular'),
+        url(./fonts/ElectroluxSans-Regular.woff) format('woff');
+}
+@font-face {
+    font-family: 'Electrolux Sans Oblique';
+    font-style: oblique;
+    font-weight: 300;
+    font-display: swap;
+    src:
+        local('Electrolux Regular Oblique'),
+        url(./fonts/ElectroluxSans-RegularObl.woff) format('woff');
+}
+@font-face {
+    font-family: 'Electrolux Sans Bold';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src:
+        local('Electrolux Bold'),
+        url(./fonts/ElectroluxSans-Bold.woff) format('woff');
+}
+@font-face {
+    font-family: 'Electrolux Sans Bold Oblique';
+    font-style: oblique;
+    font-weight: 700;
+    font-display: swap;
+    src:
+        local('Electrolux Bold Oblique'),
+        url(./fonts/ElectroluxSans-BoldObl.woff) format('woff');
+}
+@font-face {
+    font-family: 'Electrolux Sans SemiBold';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src:
+        local('Electrolux SemiBold'),
+        url(./fonts/ElectroluxSans-SemiBold.woff) format('woff');
+}
+@font-face {
+    font-family: 'Electrolux Sans SemiBold Oblique';
+    font-style: oblique;
+    font-weight: 700;
+    font-display: swap;
+    src:
+        local('Electrolux SemiBold Oblique'),
+        url(./fonts/ElectroluxSans-SemiBoldObl.woff) format('woff');
+}
